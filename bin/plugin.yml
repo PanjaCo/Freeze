@@ -1,0 +1,7 @@
+main: com.panjaco.freeze.Freeze
+version: 1.0.0
+name: Freeze
+commands:
+  freeze:
+    description: Freeze/Unfreeze a player
+    usage: /freeze <player>
